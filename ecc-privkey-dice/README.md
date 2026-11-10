@@ -9,7 +9,7 @@ The STL was created by ChatGPT.
 
 I had success printing this with standard PLA filament on a Prusa Core One +, using the "0.15 mm FAST DETAIL" preset. No ironing. The more infill you use, the nicer the dice feels. 
 
-Filament type: PLA
-Layer height: .15mm ("0.15 mm FAST DETAIL" preset on Prusa Slicer)
-Ironing: Optional
-Infill: Try 50%
+* Filament type: PLA
+* Layer height: .15mm ("0.15 mm FAST DETAIL" preset on Prusa Slicer)
+* Ironing: Optional
+* Infill: Try 50%
